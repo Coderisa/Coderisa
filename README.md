@@ -1,11 +1,9 @@
-- 👋 Hi, I’m Ina Sharma
-- A 2nd year student persuing Btech in Computer Science.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  inasharma2426@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m Ina Sharma
+A 2nd year student persuing Btech in Computer Science.
+
+🌱 I’m currently learning DSA 
+
+📫 How to reach me  inasharma2426@gmail.com
 
 <!---
 Coderisa/Coderisa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
